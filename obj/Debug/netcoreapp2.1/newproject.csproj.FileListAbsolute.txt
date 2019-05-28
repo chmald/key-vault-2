@@ -1,0 +1,14 @@
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\bin\Debug\netcoreapp2.1\newproject.deps.json
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\bin\Debug\netcoreapp2.1\newproject.runtimeconfig.json
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\bin\Debug\netcoreapp2.1\newproject.runtimeconfig.dev.json
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\bin\Debug\netcoreapp2.1\newproject.dll
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\bin\Debug\netcoreapp2.1\newproject.pdb
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.csprojAssemblyReference.cache
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.csproj.CoreCompileInputs.cache
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.RazorAssemblyInfo.cache
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.RazorAssemblyInfo.cs
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.AssemblyInfoInputs.cache
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.AssemblyInfo.cs
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.RazorTargetAssemblyInfo.cache
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.dll
+D:\__Documents\WebAppProjects\app-service-msi-keyvault-dotnet\newproject\obj\Debug\netcoreapp2.1\newproject.pdb
